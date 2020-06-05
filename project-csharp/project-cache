@@ -1,0 +1,14 @@
+{
+    "csharp-mode": {
+        "path": [
+            "./src/Main.cs",
+            "./src/core/Something.cs"
+        ],
+        "ext": [
+            ".cs"
+        ],
+        "parse-key": [
+            "csharp"
+        ]
+    }
+}
