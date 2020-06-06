@@ -7,7 +7,27 @@
  *                   Copyright © 2019 by Shen, Jen-Chieh $
  */
 
+public class Something
+{
+    private int id = 0;
+    private string cool = 0;
 
-public class Something {
+    public Something() {
 
+    }
+}
+
+public struct Packet
+{
+    public class OMG
+    {
+        public void Subtraction() {
+
+        }
+    }
+
+    public Packet()
+    {
+
+    }
 }

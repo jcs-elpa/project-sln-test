@@ -14,8 +14,14 @@ public class Main : MonoBehaviour
 {
     /* Variables */
 
+    public int hello = 0;
+
     /* Setter/Getter */
 
     /* Functions */
 
+    private void Awake()
+    {
+        int a = 0;
+    }
 }
